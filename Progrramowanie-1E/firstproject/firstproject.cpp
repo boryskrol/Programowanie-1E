@@ -38,4 +38,9 @@ std::cout << "\n";
 
 std::cout << "\n";
 std::cout << "\n";
+
+
+std::cout << "Podaj liczbe\n";
+
+
 }
