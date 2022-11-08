@@ -126,6 +126,14 @@ Napisz funkcjê która wczyta liczbê i wyœwietli informacjê czy jest ona parzysta 
 */
 void task4()
 {
+	int numberToCheck, checkNumber;
+}
+
+/*
+Napisz funkcjê która wczyta liczbê która bêdzie bokiem kwadratu i wyœwietliæ informacjê o polu i obwodzie.
+*/
+void task5()
+{
 	int sideNumber, area, circuit;
 	std::cout << "Podaj bok kwadratu:\n";
 	std::cin >> sideNumber;
@@ -134,18 +142,10 @@ void task4()
 	std::cout << "Pole" << area << "\n";
 
 	circuit = sideNumber * 4;
-	std::cout << "Obwod" << circuit << "\n"
+	::cout << "Obwod" << circuit << "\n"
 	else
-	{
-	std:cout << "Liczba w minusie\n"
-}
-
-/*
-Napisz funkcjê która wczyta liczbê która bêdzie bokiem kwadratu i wyœwietliæ informacjê o polu i obwodzie.
-*/
-void task5()
 {
-
+	std:cout << "Liczba w minusie\n"
 }
 
 /*
